@@ -48,8 +48,8 @@ To run the projects in this repository, you need the following installed:
 To get started with any project:
 
 ```bash
-git clone https://github.com/your-username/android-studio-java.git
-cd android-studio-java
+git clone https://github.com/Kabir-Narula/Andriod_Studio_Java-Learning.io
+cd Andriod_Studio_Java
 ```
 
 Open any project folder in **Android Studio** and run the app on an emulator or a connected Android device.
