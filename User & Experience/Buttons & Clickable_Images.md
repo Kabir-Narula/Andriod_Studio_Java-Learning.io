@@ -1,15 +1,6 @@
 
 # 4.1: Buttons and Clickable Images
 
-## Contents:
-- [Designing for Interactivity](#designing-for-interactivity)
-- [Designing Buttons](#designing-buttons)
-- [Responding to Button Click Events](#responding-to-button-click-events)
-- [Using Clickable Images](#using-clickable-images)
-- [Using a Floating Action Button](#using-a-floating-action-button)
-- [Recognizing Gestures](#recognizing-gestures)
-
----
 
 ## Designing for Interactivity
 The user interface (UI) that appears on an Android-powered device consists of a hierarchy of objects called views. Every element of the screen is a view. The **View** class represents the basic building block for all UI components. View is the base class for classes that provide interactive UI components, such as `Button` elements. Users tap these elements on a touchscreen or click them using a pointing device. Any element that users tap or click to perform an action is called a *clickable element*.
