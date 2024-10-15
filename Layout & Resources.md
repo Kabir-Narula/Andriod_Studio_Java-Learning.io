@@ -1,8 +1,6 @@
 
 # Android UI Views Cheat Sheet
 
-This cheat sheet covers the essential concepts and elements related to Views and ViewGroups in Android, focusing on layout design, user interaction, and resource handling.
-
 ## Core Concepts of Views in Android UI
 
 ### **View**
