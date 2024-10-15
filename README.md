@@ -1,6 +1,4 @@
 
-# Android Studio Java Projects Repository
-
 ## Overview
 
 Welcome to the **Android Studio Java Projects** repository! This repository contains a collection of tutorials, sample code, and projects developed in Java for Android using **Android Studio**. Whether you're new to Android development or an experienced developer, this repository will serve as a valuable resource for learning and building Android applications.
