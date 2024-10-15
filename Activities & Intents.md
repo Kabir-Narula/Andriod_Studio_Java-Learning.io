@@ -1,8 +1,6 @@
 
 # Android App Development Cheat Sheet: Activities and Intents
 
-This cheat sheet covers the essential concepts related to **Activities**, **Intents**, lifecycle management, and debugging in Android development. It also includes insights from the community and best practices from Android documentation.
-
 ---
 
 ## Unit 1: Getting Started
