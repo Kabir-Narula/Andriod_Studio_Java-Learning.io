@@ -69,11 +69,7 @@ Each project directory typically includes:
 
 ## Tutorials and Cheat Sheets
 
-This repository also contains detailed **cheat sheets** and **tutorials** for key Android development concepts, such as:
-
-1. [Activities and Intents Cheat Sheet](link-to-activities-intents-md)
-2. [Android Studio Debugger Cheat Sheet](link-to-debugger-md)
-3. [View Layouts Cheat Sheet](link-to-views-layouts-md)
+This repository also contains detailed **cheat sheets** and **tutorials** for key Android development concepts...
 
 ---
 
