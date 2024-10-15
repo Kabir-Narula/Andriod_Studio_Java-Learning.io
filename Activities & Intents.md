@@ -220,5 +220,4 @@ myButton.setOnClickListener(new View.OnClickListener() {
 
 ---
 
-This cheat sheet is a quick reference for Android developers working on Activities, Intents, and UI design. It combines core concepts with practical tips and common issues faced during development, using insights from the community and Android documentation.
 
